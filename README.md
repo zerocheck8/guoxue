@@ -20,6 +20,10 @@
 - `story/`：包含各个历史人物的详细文档
 - `history.xlsx`：历史人物数据总表
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zerocheck8/guoxue&type=Date)](https://www.star-history.com/#zerocheck8/guoxue&Date)
+
 ## 贡献指南
 
 欢迎对中国历史感兴趣的朋友一起参与贡献！您可以通过以下方式参与：
